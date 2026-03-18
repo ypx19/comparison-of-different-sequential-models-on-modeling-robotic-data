@@ -1,0 +1,25 @@
+Using device: cpu
+Loaded ONE long trajectory: T=152500, d=3
+
+=== Running TTT config: K=100, H=7 ===
+TTT (single) | K=100 | H=7 | Epoch 01 | train_MSE=17.658914 | val_MSE=18.689565 | val_MAE=3.379764 | best_val_MSE=18.689565
+TTT (single) | K=100 | H=7 | Epoch 02 | train_MSE=10.322970 | val_MSE=12.399780 | val_MAE=2.690744 | best_val_MSE=12.399780
+TTT (single) | K=100 | H=7 | Epoch 03 | train_MSE=6.634264 | val_MSE=8.142046 | val_MAE=2.170728 | best_val_MSE=8.142046
+TTT (single) | K=100 | H=7 | Epoch 04 | train_MSE=4.195944 | val_MSE=5.050448 | val_MAE=1.690845 | best_val_MSE=5.050448
+TTT (single) | K=100 | H=7 | Epoch 05 | train_MSE=2.533782 | val_MSE=2.956791 | val_MAE=1.261255 | best_val_MSE=2.956791
+TTT (single) | K=100 | H=7 | Epoch 06 | train_MSE=1.443898 | val_MSE=1.633787 | val_MAE=0.903098 | best_val_MSE=1.633787
+TTT (single) | K=100 | H=7 | Epoch 07 | train_MSE=0.776157 | val_MSE=0.846371 | val_MAE=0.629126 | best_val_MSE=0.846371
+TTT (single) | K=100 | H=7 | Epoch 08 | train_MSE=0.381867 | val_MSE=0.391037 | val_MAE=0.406484 | best_val_MSE=0.391037
+TTT (single) | K=100 | H=7 | Epoch 09 | train_MSE=0.181488 | val_MSE=0.193599 | val_MAE=0.278052 | best_val_MSE=0.193599
+TTT (single) | K=100 | H=7 | Epoch 10 | train_MSE=0.092021 | val_MSE=0.098058 | val_MAE=0.200028 | best_val_MSE=0.098058
+TTT (single) | K=100 | H=7 | Epoch 11 | train_MSE=0.049777 | val_MSE=0.055684 | val_MAE=0.148082 | best_val_MSE=0.055684
+TTT (single) | K=100 | H=7 | Epoch 12 | train_MSE=0.030874 | val_MSE=0.036186 | val_MAE=0.117083 | best_val_MSE=0.036186
+TTT (single) | K=100 | H=7 | Epoch 13 | train_MSE=0.021701 | val_MSE=0.026116 | val_MAE=0.098265 | best_val_MSE=0.026116
+TTT (single) | K=100 | H=7 | Epoch 14 | train_MSE=0.016679 | val_MSE=0.020235 | val_MAE=0.085872 | best_val_MSE=0.020235
+TTT (single) | K=100 | H=7 | Epoch 15 | train_MSE=0.013742 | val_MSE=0.016679 | val_MAE=0.078261 | best_val_MSE=0.016679
+TTT (single) | K=100 | H=7 | Epoch 16 | train_MSE=0.011896 | val_MSE=0.014364 | val_MAE=0.072831 | best_val_MSE=0.014364
+TTT (single) | K=100 | H=7 | Epoch 17 | train_MSE=0.010713 | val_MSE=0.012929 | val_MAE=0.069287 | best_val_MSE=0.012929
+TTT (single) | K=100 | H=7 | Epoch 18 | train_MSE=0.009922 | val_MSE=0.011951 | val_MAE=0.067048 | best_val_MSE=0.011951
+TTT (single) | K=100 | H=7 | Epoch 19 | train_MSE=0.009371 | val_MSE=0.011237 | val_MAE=0.064914 | best_val_MSE=0.011237
+TTT (single) | K=100 | H=7 | Epoch 20 | train_MSE=0.008979 | val_MSE=0.010722 | val_MAE=0.063239 | best_val_MSE=0.010722
+>> SUMMARY (K=100, H=7) | val_best_MSE=0.010722 | base_test_MSE=0.010788 | base_test_MAE=0.063484 | TTT_test_MSE=0.009373 | TTT_test_MAE=0.057471
